@@ -11,8 +11,8 @@ comments: false
 ## About Me
 
 {% capture images %}
-	<img src="/assets/img/about/me1.jpg">
-	<img src="/assets/img/about/me1.jpg">
+	/assets/img/about/me1.jpg
+	/assets/img/about/me1.jpg
 {% endcapture %}
 {% include gallery images=images caption="Just me doing my stuff..." cols=2 %}
 
