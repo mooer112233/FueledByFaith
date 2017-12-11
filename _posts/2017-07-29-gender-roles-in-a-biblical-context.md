@@ -1,17 +1,30 @@
 ---
 layout: post
-title: "God's Not Good"
-date: 2017-10-19
-excerpt: "The world strives to convince us that God isn't good. So how do we deal with it?"
-tags: [blog, God, apologetics]
+title: "Gender Roles in a Biblical Context"
+date: 2017-07-29
+excerpt: "Is gender really a spectrum? What does the Bible say about it..."
+tags: [blog, God, apologetics, gender, bible]
 comments: true
 ---
 
-> "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.” 
-> -1 Peter 5:8"
+> "So God created man in his own image, in the image of God He created him; male and female He created them.
+> -Genesis 1:27
 
-Think of a tattered, burnt, ugly scroll advertising “God’s not good!” This is a pretty good representation of sin – specifically temptation. Naturally as fallen men, we’re drawn to the world as it tells us “God doesn’t really want what’s best for you. He just wants control over your life with His rules. That lust, that porn, that addiction, that whatever else is better than whatever God may be telling you to do.” One thing is definitely true: sin is desirable, fun, and explicitly against God’s word. If sin were undesirable, we probably wouldn’t have an issue resisting it. Satan repeatedly tells us that “this is good for you.” We’re warned about this in 1 Peter 5:8. Directly after that, however, comes pretty important advice. Peter reminds us to be sober-minded and watchful, and also to resist Satan and firm our faith (1 Peter 5:9).
+Imagine this: A divine, perfect, all-powerful God creating literally everything. Huge right? Imagine He deemed all of this creation "good." That’s good right? King of the universe saying it’s all good is cool and all, but it gets way cooler. After all of this creating, He felt compelled to create US, man and woman (Adam’s name literally translates to man in Hebrew). Not only did he create us, but he called us "very good." Isn’t that intense? Our God made the most amazing, beautiful, vibrant, and wondrous nature, but considered it only good compared to our very good. Welcome to Generation Jesus.
 
-While most of what and where temptation is may be obvious, avoiding it is a whole other story. Step 1: prayer. Unceasing prayer about all things – nothing is too trivial for God – sets us in the right mindset as we go about our lives. Step 2: questioning. Rather than thinking “is this good for me,” remove the world from your mind and think “is God good for me.” The answer is undoubtedly yes, but why? James 1:16-17 reminds us that “every good thing comes down from the father…” So in order for whatever thing you struggle with to be good for you, it has to come from God, as He’s what’s good for you.
+Note: In this series, Generation Jesus, I’ll be skipping between the Old and New Testaments - primarily Genesis and the Corinthians - while making parallels to the Hebrew/Greek text when possible.
 
-Let’s face it, we live in a fallen world. Sin and temptation run rampant through our lives. However, with the help of an Advocate (John 14:16), we can continue to run towards the light of Heaven. Breaking past the desire of temptation can be hard. Sometimes, we don’t even realize sin’s full effect until it’s gone too far. God – purely out of his abounding grace and love – has redeemed us through Jesus Christ (1 Cor 1:30) so that we don’t have to suffer. Once we fall, we’re expected to move past it. “You were bought with a price, do not become slaves of men” (1 Corinthians 7:23).
+Looking at the roles of man and woman in a Biblical context can be daunting. In God’s eyes, every man and woman is equal. However, the Bible does mentions difference between social and household differences between the genders. When looking at this topic in a headship order based on creation, it flows as follows: "But I want you to know that the head of every man is Christ, the head of woman is man, and the head of Christ is God(1Cor 11:3) as Paul articulated in his letter to the people of Corinth. Based on Greek, kephalḗ (head) is often replaced with the word "source." Try replacing the word “head" in 1 Corinthians 11:3 with the word "source." It makes sense at first considering God created man. Man, however, did not create woman, in fact, man is born of woman ( 1Cor 11:12) . Now, replace "head" with the word “headship,” meaning has authority over. In all realistic application, men are considered to be the spiritual leaders of the household and church. Women, on the other hand, are expected to teach "what is good" (Titus 2:3-5). Women were created as an - in Hebrew- `êzer, "one that helps/protects." God knew man wasn’t able to be alone; man needed someone to love and someone that loved him. Men are the leaders, while women fix their messes. This, in no way, means women are inferior to men, rather subordinate or submissive. Men, though, are expected to lead with love, grace, and respect. Women are expected to submit because of creative order of God - "because God said so."
+Let’s face it, we live in a fallen world. Sin and temptation run rampant through our lives. However, with the help of an Advocate (John 14:16), we can continue to run towards the light of Heaven. Breaking past the desire of temptation can be hard. Sometimes, we don’t even realize sin’s full effect until it's gone too far. God – purely out of his abounding grace and love – has redeemed us through Jesus Christ (1 Cor 1:30) so that we don’t have to suffer. Once we fall, we're expected to move past it. "You were bought with a price, do not become slaves of men" (1 Corinthians 7:23).
+
+Spiritually, men and women are equals. "…there is no male and female, for you are all one in Christ Jesus."(Gal 3:28) Galatians 3:28 is a verse used by many groups as grounds for man and woman being completely equal in all aspects. I believe this is a mistruth, as Galatians 3:23-29 talks on the precept of faith, rather than physical attributes. In this passage, Paul talks on our released from the "guardian of law" (Gal 3:25) as faith entered the scene, and Christ holds all humans equal in their spirituality. We are "collectively one in the Son of God" (Gal 3:28 - Hebrew to English).
+
+## A Word to Men...
+
+As men of God, we need to step up in our churches, households, and communities to profess the Good News of Jesus Christ. To many times - myself included - I see men fall to the world (similar to the account of sin entering the world in Genesis) and submit themselves to the rule of Satan’s temptation. It’s time we stand, and push towards Generation Jesus.
+
+# A Word to Women...
+
+Ladies, as women of God, holiness is key. To achieve Godliness, submission to husbands is expected. However, do not give up your faith or your spirituality with a man. Your relationship with Jesus Christ is indefinitely more important to you than any other man. Profess your faith boldly, listen to teachings of the Bible, and push towards Generation Jesus.
+
+In today’s culture, gender roles are a hot topic with the rise of modern-feminism and men’s rights initiatives. It’s important - as men and women of God - to go to God’s word in times of confusion and unrest. Above all, with grace, we must push to become Generation Jesus. Thank you all for reading, and I’d love to hear your comments and Biblical findings in the comments below. Relative to gender roles, our next instalment will be on gender identify, confusion with who we are.
