@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Fueled by Faith
+bio:                'Jesus, Coffee, Music.'
+description:        "Simply put, this is a blog for Jesus fans."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/bible.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://fueledbyfaith.org/
 
 # Jekyll
 permalink:          /:title/
@@ -26,31 +26,31 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   mooer112233
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
+google:
+  plus:            	RyanMoore123
+  analytics:		UA-111047594-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:				ryan.moore7292@gmail.com
+twitter:            mooer112233
+facebook:           Ryan.Moore7292
+github-url:         mooer112233
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          mooer112233
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
