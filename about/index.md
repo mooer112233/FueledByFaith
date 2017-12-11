@@ -12,7 +12,7 @@ comments: false
 
 {% capture images %}
 	/assets/img/about/me1.jpg
-	/assets/img/about/me1.jpg
+	/assets/img/about/me2.jpg
 {% endcapture %}
 {% include gallery images=images caption="Just me doing my stuff..." cols=2 %}
 
