@@ -3,7 +3,7 @@ layout: post
 title: "Generation Jesus"
 date: 2017-07-28
 excerpt: "This is what's wrong with our generation..."
-tags: [blog, God, apologetics, Jesus]
+tags: [Jesus, Apolegetics]
 comments: true
 ---
 

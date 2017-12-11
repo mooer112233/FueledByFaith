@@ -3,7 +3,7 @@ layout: post
 title: "God's Not Good"
 date: 2017-10-19
 excerpt: "The world strives to convince us that God isn't good. So how do we deal with it?"
-tags: [blog, God, apologetics]
+tags: [God, Apolegetics, Sin]
 comments: true
 ---
 

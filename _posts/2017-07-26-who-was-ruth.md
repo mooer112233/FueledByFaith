@@ -3,7 +3,7 @@ layout: post
 title: "Who was Ruth?"
 date: 2017-07-26
 excerpt: "From the book of Ruth in the Old Testament, Ruth was brutally tested, remained loyal, and was greatly rewarded."
-tags: [blog, God, bible, Ruth]
+tags: [Bible, Ruth, Identity]
 comments: true
 ---
 

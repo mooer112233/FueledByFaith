@@ -3,7 +3,7 @@ layout: post
 title: "My Life Verse for 2017"
 date: 2017-07-23
 excerpt: "The importance of Proverbs 3:5-6 in my life."
-tags: [blog, God, bible, verse, Proverbs]
+tags: [Bible, Verses, Personal]
 comments: true
 ---
 
