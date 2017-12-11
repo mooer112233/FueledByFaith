@@ -10,7 +10,7 @@ comments: false
 
 ## About Me
 
-I'm Ryan, 18 years old, born again on October 20th, 2017. While I love my hometown of New Bethlehem, I'm currently residing in Rochester, New York while I attend the Rochester Institute of Technology for Computing Security. Despite being a computing major, I'm still pretty bad at coding (just hang with me while the website develops!) but always love a challenge. This is currently the second version of Fueled by Faith, and the original can be found [here on GitHub](https://github.com/mooer112233/Fueled-By-Faith). Feel free to contact me with any questions or suggestions via the information below!  
+I'm Ryan, 18 years old, born again on October 20th, 2017. While I love my hometown of New Bethlehem, I'm currently residing in Rochester, New York while I attend the Rochester Institute of Technology for Computing Security. Despite being a computing major, I'm still pretty bad at coding (just hang with me while the website develops!) but always love a challenge. This is currently the second version of Fueled by Faith, and the original can be found [here on GitHub](https://github.com/mooer112233/ARCHIVED-Fueled-by-Faith). Feel free to contact me with any questions or suggestions via the information below!  
 
 {% capture images %}
 	/assets/img/about/me1.jpg
@@ -24,7 +24,7 @@ I'd love to hear from you! If you have an article idea, bug report, or just want
 
 ## Website Plans
 
-* This website is currently under development. You can check out the [GitHub repository](https://github.com/mooer112233/mooer112233.github.io) to file issues/suggest changes. *
+* This website is currently under development. You can check out the [GitHub repository](https://github.com/mooer112233/FueledByFaith) to file issues/suggest changes. *
 
 Current plans include:
 * Transferring all posts from the old site
