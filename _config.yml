@@ -1,7 +1,7 @@
 # Site
 title:              Fueled by Faith
-bio:                'Jesus, Coffee, Music.'
-description:        "Simply put, this is a blog for Jesus fans."
+bio:                'With faith as our fuel, there's a fire in our soul'
+description:        "Simply put, this is a blog for Jesus fans"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -45,7 +45,7 @@ twitter:            mooer112233
 facebook:           Ryan.Moore7292
 github-url:         mooer112233
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           ryanmoore7292
 #xing:              username
 instagram:          mooer112233
 #lastfm:            username
@@ -53,7 +53,7 @@ instagram:          mooer112233
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             mooer112233
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
