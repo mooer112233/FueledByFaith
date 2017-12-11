@@ -16,9 +16,9 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Just me doing my stuff..." cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Feel free to check out my [personal website](http://ryanwmoore.me) to learn more about me!
 
-## Getting Started
+## Website Plans
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
