@@ -24,7 +24,7 @@ I'd love to hear from you! If you have an article idea, bug report, or just want
 
 ## Website Plans
 
-* This website is currently under development. You can check out the [GitHub repository](https://github.com/mooer112233/FueledByFaith) to file issues/suggest changes. *
+*This website is currently under development. You can check out the [GitHub repository](https://github.com/mooer112233/FueledByFaith) to file issues/suggest changes.*
 
 Current plans include:
 * Transferring all posts from the old site
