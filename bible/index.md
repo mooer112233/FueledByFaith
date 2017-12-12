@@ -10,5 +10,10 @@ comments: false
 
 ## YouVersion Bible
 
- <iframe src="https://www.bible.com" height="960" width="720"></iframe>
 
+
+ <iframe src="https://www.bible.com" height="480" width="100%" class="myIframe"></iframe>
+
+<script type="text/javascript" language="javascript"> 
+$('.myIframe').css('height', $(window).height()+'px');
+</script>
