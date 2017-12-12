@@ -10,5 +10,5 @@ comments: false
 
 ## YouVersion Bible
 
- <iframe src="https://www.bible.com" height="480" width="720"></iframe>
+ <iframe src="https://www.bible.com" height="960" width="720"></iframe>
 
