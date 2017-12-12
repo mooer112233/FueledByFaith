@@ -1,17 +1,47 @@
 ---
 layout: post
-title: "God's Not Good"
-date: 2017-10-19
-excerpt: "The world strives to convince us that God isn't good. So how do we deal with it?"
-tags: [blog, God, apologetics]
+title: "Attitudes of Jesus"
+date: 2017-08-06
+excerpt: "Jesus is our ultimate example as Christians. Let's take a look at the attitudes He had during His time on Earth"
+tags: [Apologetics, Jesus, Attitude]
 comments: true
 ---
 
-> "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.” 
-> -1 Peter 5:8"
+> "Your attitude should be the same as that of Jesus Christ"
+> -Philippians 2:5
 
-Think of a tattered, burnt, ugly scroll advertising “God’s not good!” This is a pretty good representation of sin – specifically temptation. Naturally as fallen men, we’re drawn to the world as it tells us “God doesn’t really want what’s best for you. He just wants control over your life with His rules. That lust, that porn, that addiction, that whatever else is better than whatever God may be telling you to do.” One thing is definitely true: sin is desirable, fun, and explicitly against God’s word. If sin were undesirable, we probably wouldn’t have an issue resisting it. Satan repeatedly tells us that “this is good for you.” We’re warned about this in 1 Peter 5:8. Directly after that, however, comes pretty important advice. Peter reminds us to be sober-minded and watchful, and also to resist Satan and firm our faith (1 Peter 5:9).
+The apostle Paul - stuck in a prison for loving what he once hated - advises us to be like Christ. A man, broken and imprisoned, continually gives words of encouragement to the members of his broken churches. Talk about a good attitude! In Ephesians 5:1, Paul challenges us to "be imitators of God, as beloved children." That's a pretty tall order to fill considering God's almighty, everlasting reach over all of creation - which He created. However, even though Jesus' sole mission was to shed blood for our salvation, Jesus also was placed on Earth to be our perfect example of godly living. It's a bit more realistic to copy a man, right? I can tell you this: it takes miraculous, instant turn-over by the Holy Spirit, or a long and drawn-out intervention by God. God either gifts you with His attitude, or you and the Holy Spirit have to spend a lot of 1-on-1 time.
 
-While most of what and where temptation is may be obvious, avoiding it is a whole other story. Step 1: prayer. Unceasing prayer about all things – nothing is too trivial for God – sets us in the right mindset as we go about our lives. Step 2: questioning. Rather than thinking “is this good for me,” remove the world from your mind and think “is God good for me.” The answer is undoubtedly yes, but why? James 1:16-17 reminds us that “every good thing comes down from the father…” So in order for whatever thing you struggle with to be good for you, it has to come from God, as He’s what’s good for you.
+>> "Pray without ceasing"
+>> -1 Thessalonians 5:17
 
-Let’s face it, we live in a fallen world. Sin and temptation run rampant through our lives. However, with the help of an Advocate (John 14:16), we can continue to run towards the light of Heaven. Breaking past the desire of temptation can be hard. Sometimes, we don’t even realize sin’s full effect until it’s gone too far. God – purely out of his abounding grace and love – has redeemed us through Jesus Christ (1 Cor 1:30) so that we don’t have to suffer. Once we fall, we’re expected to move past it. “You were bought with a price, do not become slaves of men” (1 Corinthians 7:23).
+How did Jesus seem to keep the perfect attitude, even in the face of death? He was in "constant prayer" (Rom 12:12) and constantly took earthly matters to his Father in Heaven. Despite all the humiliation, beatings, and ridicule, Jesus "made no threats and did not retaliate. Instead He entrusted Himself to Him who judges justly." (1Pet 2:23). Like Jesus, we should seek counsel and guidance from God in every situation. Remember this: no problem is too small or insignificant for such a big God. He's a Father, a "good good father." He's much more than a lifestyle, more than a book, and more than a place we go to on Sunday. We can't talk to a book or cry to a lifestlye. If we remember the truth that God is the "Father of the fatherless," (Psa 68:5) we can better maintain an attitude of gratitude. 
+
+>> "Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves. Each of you should look not only to your own interests, but also to the interests of others"
+>> -Philippians 2:3-4
+
+In these two verses, Paul is summarizing the guidelines that Christ has set before us to the perfect attitude:
+
+1. Selflessness
+2. Humility
+3. Service
+
+## Selflessness
+
+Jesus did nothing with a sense of self-ambition. Everything He did, every step He took, every person He engaged had purpose twofold: to help others and bring glory to God. Jesus' famous words "Father forgive them, they know not what they do" (Luke 23:34) demonstrate this idea of selflessness. As these soldiers torture and ultimately kill Jesus, He continues to ask his Father to forgive them. Talk about caring for others! 
+
+## Humility
+
+Jesus always understood His place in this world. Paul states "...the head of Christ is God" (1Cor 11:3) when speaking in terms of creative order. Paul also reminds us to "in humility, count others as more significant than yourselves." (Phi 2:3) Take a look at John 13:4-5: "Jesus laid aside his outer garments, and taking a towel, tied it around his waist. Then he poured water into a basin and began to wash the disciples' feet and to wipe them with the towel that was wrapped around him." Jesus tied the towel around His waist to appear as a servant and proceeded to wash the feet of His disciples who thought the whole situation seemed backwards! Jesus deliberately humbled himself to his followers to demonstrate submission, humility, respect, and - our final point - service.
+
+## Service
+
+Jesus was the greatest expert in service. You could even call him a "master servant!" As aforementioned in Luke 13, Jesus humbly serviced his disciples by washing their feet after serving them supper. Jesus promises us that we can "ask [Him] anything and [He] will do it." (Luke 14:14) Paul tells us in Galatians 5:13, "you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another." We're called to service because Christ had the attitude of a selfless, humble servant on a God-ordained mission to save us all.
+
+By utilizing the teachings of Jesus, we can press to achieve His attitude. If we all adopt His attitude, there's no doubt we can become Generation Jesus. Thank you for reading and sticking around through my first series! More to come soon!
+
+
+
+
+
+

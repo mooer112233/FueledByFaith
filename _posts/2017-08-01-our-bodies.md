@@ -1,17 +1,36 @@
 ---
 layout: post
-title: "God's Not Good"
-date: 2017-10-19
-excerpt: "The world strives to convince us that God isn't good. So how do we deal with it?"
-tags: [blog, God, apologetics]
+title: "Our Bodies?"
+date: 2017-08-01
+excerpt: "Our bodies seem to be under our complete control. God, however, is the creator. Should He have a say in how we use out bodies?"
+tags: [Apologetics, Identity, Sin, License]
 comments: true
 ---
 
-> "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.” 
-> -1 Peter 5:8"
+> "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own" 
+> -1 Corinthians 6:19
 
-Think of a tattered, burnt, ugly scroll advertising “God’s not good!” This is a pretty good representation of sin – specifically temptation. Naturally as fallen men, we’re drawn to the world as it tells us “God doesn’t really want what’s best for you. He just wants control over your life with His rules. That lust, that porn, that addiction, that whatever else is better than whatever God may be telling you to do.” One thing is definitely true: sin is desirable, fun, and explicitly against God’s word. If sin were undesirable, we probably wouldn’t have an issue resisting it. Satan repeatedly tells us that “this is good for you.” We’re warned about this in 1 Peter 5:8. Directly after that, however, comes pretty important advice. Peter reminds us to be sober-minded and watchful, and also to resist Satan and firm our faith (1 Peter 5:9).
+So if God created us in His image for His perfect plan, then do we really own our bodies? Paul tells us in 1 Corinthians 6:19, "you are not your own." That seems like a rather explicit and straightforward answer. One mistruth that's been circulated since ancient Greek philosophers is the idea that "my body is worldy/evil; I can divorce it from my spirituality. It doesn't matter if I mess it up." However, the Bible tells us the complete opposite. As aforementioned, our body is a Temple of God, and Paul tells us "If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple."(1 Cor 3:17) So what does the Bible say about negative habits we give into with our bodies?
 
-While most of what and where temptation is may be obvious, avoiding it is a whole other story. Step 1: prayer. Unceasing prayer about all things – nothing is too trivial for God – sets us in the right mindset as we go about our lives. Step 2: questioning. Rather than thinking “is this good for me,” remove the world from your mind and think “is God good for me.” The answer is undoubtedly yes, but why? James 1:16-17 reminds us that “every good thing comes down from the father…” So in order for whatever thing you struggle with to be good for you, it has to come from God, as He’s what’s good for you.
+## Speech
 
-Let’s face it, we live in a fallen world. Sin and temptation run rampant through our lives. However, with the help of an Advocate (John 14:16), we can continue to run towards the light of Heaven. Breaking past the desire of temptation can be hard. Sometimes, we don’t even realize sin’s full effect until it’s gone too far. God – purely out of his abounding grace and love – has redeemed us through Jesus Christ (1 Cor 1:30) so that we don’t have to suffer. Once we fall, we’re expected to move past it. “You were bought with a price, do not become slaves of men” (1 Corinthians 7:23).
+Vulgarity, gossip, negativity, and hate are a few examples "filthiness" and "foolishness" as Ephesians 5:4 puts it. Ephesians 4:29, Colossians 4:6, and Proverbs 15:1-2 are all passages related how we must speak as Christans.
+
+>> "It is not what goes into the mouth that defiles a person, but what comes out of the mouth; this defiles a person."
+>> -Matthew 15:11
+
+## What We "Put In"
+
+This has a lot to do with drugs, alcohol, and food. Of course, the world has two very different perspectives on these topics: put in whatever you want or put in none of it. God's Word supports the latter. On the subject of food, God blesses us with the ability to enjoy food. However, if food consumes our mind or distracts us from God, we need to reconsider our priorities. Proverbs 20:1, 1 Corinthians 10:31, Romans 12:2, and Proverbs 23:2 give insight to God's opinion on what we put into our bodies.
+
+>> "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."
+>> -1 Peter 5:8
+
+## Sexual Immorality
+
+Being in such a relationship-centered culture, sex is worshiped and encouraged by many young adults. Lust for sexual immorality is a strong temptation that is extremely prevail today, but the Bible offers great advice for staying pure: Psalms 119 9-16, a Psalm of Beth.
+
+>> "How can a young man keep his way pure? By guarding it according to Your word."
+>> Psalms 119:9
+
+God created our bodies. Our bodies belong to God, not us. Therefore, we need to be stewards of God's creation. If we don't take care of our bodies, we don't glorify God, and we don't resemble a Generation Jesus.
