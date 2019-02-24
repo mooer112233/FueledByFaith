@@ -12,7 +12,7 @@ comments: false
 
 
 
- <iframe src="https://www.bible.com" height="500" width="100%" class="myIframe"></iframe>
+ <iframe src="https://www.bible.com/read/" height="500" width="100%" class="myIframe"></iframe>
 
 <script type="text/javascript" language="javascript"> 
 $('.myIframe').css('height', $(window).height()+'px');
